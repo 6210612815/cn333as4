@@ -14,7 +14,7 @@
     <string name="placeholder_distance">distance</string>
 
     <string name="mass">Mass</string>
-    <string name="kg">Mass</string>
+    <string name="kg">kg</string>
     <string name="pounds">pounds</string>
     <string name="placeholder_scales">mass</string>
 </resources>

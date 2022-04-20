@@ -27,7 +27,7 @@ sealed class Screen(
 
     private object Mass: Screen(
         "mass",
-        R.string.kg,
+        R.string.mass,
         R.drawable.outline_scale_24
     )
 }
