@@ -9,12 +9,12 @@
     <string name="placeholder">temperature</string>
 
     <string name="distances">Distances</string>
-    <string name="meter">m</string>
-    <string name="mile">mi</string>
+    <string name="meter">metre</string>
+    <string name="mile">mile</string>
     <string name="placeholder_distance">distance</string>
 
-    <string name="scales">Scales</string>
-    <string name="kg">kg</string>
+    <string name="mass">Mass</string>
+    <string name="kg">Mass</string>
     <string name="pounds">pounds</string>
-    <string name="placeholder_scales">scales</string>
+    <string name="placeholder_scales">mass</string>
 </resources>
